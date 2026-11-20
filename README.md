@@ -18,7 +18,6 @@ Dit project is volledig op eigen initiatief opgezet om praktijkervaring op te do
 ## Gebruikte tools
 * **SQL (PostgreSQL):** Met name ingezet om data cleaning te ervaren in junior-vriendelijke stappen. De definitieve queries zijn terug te vinden in het bestand 'huizenmarkt_SQL.sql'.
 * **Power BI en Excel:** Met name gebruikt om de dashboards naar eigen smaak te ontwerpen. Ik heb in Power BI op een omslachtige manier berekeningen gemaakt met kolommen, en deze in mappen gestopt. In Excel is een directere en efficiëntere methode gebruikt via Power Query – daarmee ben ik in ieder geval bewust van beide methoden.
-* **SQL-queries:** De definitieve PostgreSQL-queries zijn terug te vinden in het bestand huizenmarkt_SQL.sql.
 
 ## Bron
 * **Bron:** CBS Kerncijfers wijken en buurten 2025 (Dataset 86165NED)
