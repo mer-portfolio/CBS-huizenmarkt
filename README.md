@@ -24,11 +24,11 @@ Dit project is volledig op eigen initiatief opgezet om praktijkervaring op te do
 
 ## Visuele Eindresultaten (Dashboards)
 Hieronder staan de belangrijkste dashboardpagina's die vanuit dezelfde CBS-dataset zijn opgebouwd in Power BI en Excel:
-** Power BI
+* Power BI
 <img width="848" height="477" alt="afbeelding" src="https://github.com/user-attachments/assets/fa771196-6eef-4e5b-aac1-c112cefd996a" />
 <img width="845" height="480" alt="afbeelding" src="https://github.com/user-attachments/assets/9261d510-f3a6-4826-9b43-12a04088e333" />
 <img width="851" height="475" alt="afbeelding" src="https://github.com/user-attachments/assets/91571a86-e23a-4adb-86c6-d52a821251e9" />
-** Excel
+* Excel
 <img width="764" height="461" alt="afbeelding" src="https://github.com/user-attachments/assets/d064776e-e36a-4f60-83cd-19c7428c6f79" />
 <img width="763" height="469" alt="afbeelding" src="https://github.com/user-attachments/assets/e37d2828-6d8e-45b4-8fe2-3e8b6fb11a94" />
 <img width="740" height="505" alt="afbeelding" src="https://github.com/user-attachments/assets/599040d5-32b1-461b-9cb6-4f747082184d" />
