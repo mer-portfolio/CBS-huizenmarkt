@@ -22,4 +22,3 @@ Dit project is volledig op eigen initiatief opgezet om praktijkervaring op te do
 
 ## Bron
 * **Bron:** CBS Kerncijfers wijken en buurten 2025 (Dataset 86165NED)
-* **Laatste update:** 14 september 2026
