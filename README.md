@@ -8,7 +8,7 @@ Het doel van het project was om met werkelijke data vragen te beantwoorden over 
 * Waar wijken de grootste steden af van het landelijke gemiddelde?
 
 ## Architectuur en aanpak
-De gekozen architectuur en aanpak zijn opgezet met het idee om ook iets pittigere datavragen te stellen en deze toch junior-vriendelijk te houden. Door dezelfde vragen uit te werken in SQL, Power BI, en Excel, kwamen er specifieke moeilijkheidspunten en beperkingen per tool aan het licht. Hierdoor wordt direct zichtbaar welke taken per programma juist makkelijker of moeilijker zijn voor een junior.
+De gekozen architectuur en aanpak zijn opgezet met het idee om ook iets pittigere datavragen te stellen en deze toch junior-vriendelijk te houden. Door dezelfde vragen uit te werken in SQL, Python, Power BI, en Excel, kwamen er specifieke moeilijkheidspunten en beperkingen per tool aan het licht. Hierdoor wordt direct zichtbaar welke taken per programma juist makkelijker of moeilijker zijn voor een junior.
 
 ## Leerproces en ontwikkeling
 Dit project is volledig op eigen initiatief opgezet om praktijkervaring op te doen voor de rol van Junior Data Analist.
