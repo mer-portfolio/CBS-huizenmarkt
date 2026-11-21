@@ -17,7 +17,7 @@ Dit project is volledig op eigen initiatief opgezet om praktijkervaring op te do
 
 ## Gebruikte tools
 * **SQL (PostgreSQL):** Ingezet om data cleaning te ervaren in junior-vriendelijke stappen. De definitieve queries zijn terug te vinden in het bestand 'huizenmarkt_SQL.sql'.
-* **Python (Pandas):** Gebruikt voor het inladen, opschonen (spaties verwijderen en waarden corrigeren) en filteren van de ruwe CBS-data. Dit script staat in `huizenmarkt_python.py`.
+* **Python (Pandas):** Gebruikt voor het inladen, opschonen (spaties verwijderen en waarden corrigeren), filteren, en opsplitsen van de ruwe CBS-data naar schone CSV-bestanden. Dit script staat in `huizenmarkt_python.py`.
 * **Power BI en Excel:** Gebruikt om de dashboards naar eigen smaak te ontwerpen. Ik heb in Power BI op een omslachtige manier berekeningen gemaakt met kolommen, en deze in mappen gestopt. In Excel is een directere en efficiëntere methode gebruikt via Power Query – daarmee ben ik in ieder geval bewust van beide methoden.
 
 ## Bron
