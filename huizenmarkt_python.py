@@ -36,3 +36,5 @@ gemeenten_df = df[df['gemeente_code'].str.startswith('GM')]
 # *************************************************
 # 5. Opslaan in CSV-bestand
 df.to_csv('Huizenmarkt_Nederland_Clean.csv', sep=';', index=False)
+landelijk_df.to_csv('Huizenmarkt_Landelijk_Clean.csv', sep=';', index=False)
+gemeenten_df.to_csv('Huizenmarkt_Gemeenten_Clean.csv', sep=';', index=False)
